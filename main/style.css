@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: "Comic Sans MS";
+  background-color: black;
+  color: white;
+  text-wrap: stable;
+}
+
+img {
+  width: 500px;
+  height: 500px;
+}
